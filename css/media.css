@@ -91,7 +91,7 @@
         display: flex;
         justify-content: space-around;
     }
-    .footer__socials-link {
+    .footer__socials-item {
         margin: 0;
     }
 }
