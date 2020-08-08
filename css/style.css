@@ -381,6 +381,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     display: none;
+    cursor: pointer;
 }
 
 .advantages {
@@ -578,6 +579,7 @@ body {
     padding-left: 75px;
     padding-right: 43px;
     display: inline-block;
+    transition: none;
 }
 
 .footer__btn:hover {
